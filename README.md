@@ -1,11 +1,20 @@
 # power_bi_HR DASHBOARD_project
-Summary: The file tracks HR metrics including employee demographics, satisfaction, performance, and eligibility for retirement or promotion. It includes detailed data on job roles, satisfaction levels, travel requirements, and tenure. This data enables insightful metrics for HR analysis, such as attrition rates, job satisfaction by department, promotion readiness, and retirement forecasts.
 
-home: This sheet seems to be an overview or summary. It includes a total employee count, female employee count, percentage of female employees, and some other aggregated statistics, though much of the content appears empty or placeholder.
+Objective: To develop an HR analytics dashboard in Power BI that provides insights into employee demographics, job satisfaction, performance, attrition, and promotion eligibility.
 
-details: This sheet likely includes department-level data, with values for employees who are due for promotion and retirement across various departments (e.g., Human Resources, Research & Development, Sales).
+Data Insights:
 
-This sheet lists individual employees due for retirement and promotion, showing their names and respective eligibility.
+Employee Demographics: Captures employee age, education, department, travel frequency, and distance from the office.
+Job Satisfaction and Performance: Measures job satisfaction, performance ratings, and factors influencing job retention, including years at the company, current role, and years with the current manager.
+Promotion and Retirement Readiness: Highlights employees eligible for promotion or nearing retirement, providing a basis for succession planning.
+Attrition Trends: Identifies patterns in employee attrition, including reasons for leaving, related demographics, and job factors.
+
+Tools and Techniques:
+
+Data Processing: Excel and Power BI were used to clean and organize data, preparing it for visual analysis.
+
+Visualization: Power BI visualizations track key HR metrics, such as attrition rates by department, performance distribution, satisfaction levels, and distance-based employee distribution.
+
 
 Conclusion
-The data appears to be set up for HR dashboard purposes, likely to monitor key HR metrics like attrition, promotion readiness, retirement eligibility, and diversity stats. The HR dashboard power bi sheet serves as a core data set for individual employee metrics, while details and  seem more focused on summarizing promotion and retirement eligibility.
+The HR dashboard offers a structured view of workforce data, helping HR teams understand and address employee engagement, performance, and retention. With this dashboard, HR managers can make data-driven decisions about talent management, career development, and organizational planning.
